@@ -2,7 +2,8 @@ package pira_exercice.MockitoFirst;
 
 public class Database {
 	
-	 public boolean isAvailable() {
+	 public boolean isAvailable() { 
+		 
 	        // currently not implemented, as this is just demo used in a software test
 	        return false;
 	    }
